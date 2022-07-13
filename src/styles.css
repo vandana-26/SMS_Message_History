@@ -1,0 +1,16 @@
+.load-spinner {
+  height: 300px;
+  border: 1px solid black;
+  margin: auto 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .loader{
+  justify-content: center;
+  align-items: center;
+} */
+.search-box {
+  margin-bottom: 10px;
+}
